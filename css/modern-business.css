@@ -24,6 +24,12 @@ body {
 	padding-bottom: 15px;
 }
 
+.title {
+	font-family: 'Lobster Two', cursive;
+	font-weight: bold;
+	color: #156FBF;
+}
+
 .img-portfolio {
     margin-bottom: 30px;
 }
