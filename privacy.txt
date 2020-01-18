@@ -1,0 +1,27 @@
+Two Bean Apps respects the privacy of our users.  We do not collect or store private personal information of our users, subject to the following exceptions or limitations:
+
+1) Some of our apps may include advertising handled through a component provided by a third-party partner.  Such partners have their own privacy policies and may collect and store personal or non-personal information, e.g. to serve targeted advertisements.  Such information could include, but is not limited to, persistent advertising identifiers, geolocation information, and IP address. Current third party advertising partners and their privacy policies are:
+
+	* AdMob  https://www.google.com/policies/privacy/
+	* Amazon Mobile Ads https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496#examples
+
+2) Some of our apps may include analytics functionality handled through a component provided by a third-party partner.  The purpose of such components is to help us improve the app by understanding how the app is being used.  Such components may collect and store information subject to their own privacy policies.  Such information may include but is not limited to: how often you use the app, the events that occur within the app, aggregated usage, performance data, and where the app was downloaded from.   Current third party analytics partners used are:
+
+	* Firebase Analytics
+
+3) Some of our apps may include multiplayer support handled through a component provided by a third-party partner.  Such partners have their own privacy policies and terms of services.  Current providers of multiplayer components are:
+
+	* Google Play Games Services.  https://developers.google.com/games/services/terms
+
+
+Opt-Out Options
+
+There are multiple opt-out options for users of our apps:    
+
+* Opt-out of all information collection by uninstalling the app: You can stop all collection of information by the app easily by uninstalling the app. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+* Opt-out from the use of information to serve targeted advertising: Advertising partners may allow users to opt-out of the collection of data used to display targeted advertisements.  For example, you may opt out of targeted AdMob ads through the Google settings app on your device.
+
+
+If you have any questions about this Privacy Policy, please contact us at support@twobeanapps.com.  Two Bean Apps reserves the right to modify this Privacy Policy at any time.  This Privacy Policy was last updated on February 11, 2017
+
